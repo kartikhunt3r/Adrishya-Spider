@@ -1,6 +1,6 @@
 # Adrishya-Spider
 
-Fastest web spider written in python. Gether every single Links,forms,js files, endpoints, wayback urls. works on windows and linux. 
+Fast web spider written in python. Gether every single Links,forms,js files, endpoints, wayback urls. works on windows and linux. 
 
 
 ![Logo](https://github.com/kartikhunt3r/MacChanger/blob/main/logo.gif)
