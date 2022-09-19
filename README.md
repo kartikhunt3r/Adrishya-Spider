@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 
 ```bash
-python3 Adrishya.py
+python3 adrishya.py
 ```
 
 
