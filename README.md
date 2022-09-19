@@ -13,7 +13,7 @@ Fast web spider written in python. Gether every single Links,forms,js files, end
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) All linux distributions
 
 
-## Features
+## Features:
 
 * Fastest web crawling
 * works on python asyncio, which makes it way more faster than other crawlers
@@ -33,7 +33,7 @@ Fast web spider written in python. Gether every single Links,forms,js files, end
 * Easy to use
 
 
-## 📹 Demo Video 
+## 📹 Demo Video :
 
 
 [![Demo](https://img.youtube.com/vi/8pcm75bzopU/0.jpg)](https://youtu.be/8pcm75bzopU)
