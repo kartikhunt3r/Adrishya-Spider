@@ -29,7 +29,6 @@ Fastest web spider written in python. Gether every single Links,forms,js files, 
 * Support Burp input
 * Crawl multiple sites in parallel
 * option to include Third party urls to your results
-* Random mobile/web User-Agent
 * Easy to use
 
 
