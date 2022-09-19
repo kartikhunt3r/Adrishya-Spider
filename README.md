@@ -2,6 +2,9 @@
 Fast web spider to gether every single Links,forms,js files, endpoints, wayback urls. written in python, works on windows and linux. 
 
 
+![Logo](https://github.com/kartikhunt3r/MacChanger/blob/main/logo.gif)
+
+
 ## Platforms:
 
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) All windows distributions
