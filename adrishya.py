@@ -1,14 +1,12 @@
-from logging.config import valid_ident
 import re
 from urllib.parse import urljoin
 import asyncio
-from xml.etree.ElementInclude import include
 import aiohttp
 import requests
 from aiohttp.client import ClientSession
 import sys
-from bs4 import BeautifulSoup
 import subprocess
+
 class colors:
 
     HEADER = '\033[95m'
