@@ -35,8 +35,7 @@ Fast web spider written in python. Gether every single Links,forms,js files, end
 ## 📹 Demo Video :
 
 
-[![Demo](https://img.youtube.com/vi/8pcm75bzopU/0.jpg)](https://youtu.be/8pcm75bzopU)
-
+[![Demo](https://img.youtube.com/vi/wPCsZ2n0H40/0.jpg)](https://youtu.be/wPCsZ2n0H40)
 
 ## Installation:
 
